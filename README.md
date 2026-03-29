@@ -18,15 +18,17 @@ This project focuses on understanding and applying digital literacy concepts. It
 
 ## 🏗️ Project Structure
 project-report/
-    └── project-report.pdf
+    └── report.pdf
 01-task-1-presentation/
-    └── digital-literacy-presentation.pptx
+    └── digital literacy awareness.png
 02-task-2-portfolio/
-    └── portfolio.pdf
-03-task-3-platforms/
-    ├── github profile.png
+    └── github profile.png
     ├── linkedin profile.png
     ├── kaggle profile.png
+03-task-3-platforms/
+    ├── google form response.png
+    ├── google form.png
+    ├── hackerrank.png
 04-task-4-email-etiquette/
     ├── email extension.txt
     ├── email internship.txt
